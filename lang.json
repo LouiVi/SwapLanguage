@@ -1,0 +1,11 @@
+
+{
+    "langs": [ "English", "Español" ],
+    "codes": { "english":"en", "español":"es" },
+    "trans" : {
+        "SelectLang" : {
+            "en":"Please select your prefered language from the 'Settings' menu",
+            "es":"Selecciona tu idioma preferido en el menú 'Configuración'"
+        }
+    }
+}
